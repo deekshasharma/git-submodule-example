@@ -1,1 +1,1 @@
-console.log('Hold on! We are atrying git submodule here!');
+console.log('Hold on! We are trying git submodule here!');
