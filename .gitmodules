@@ -1,3 +1,4 @@
 [submodule "basic-redux-react-app"]
 	path = basic-redux-react-app
 	url = git@github.com:deekshasharma/basic-redux-react-app.git
+	branch = master
