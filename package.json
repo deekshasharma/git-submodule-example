@@ -1,0 +1,19 @@
+{
+  "name": "parent-package",
+  "version": "1.0.0",
+  "description": "This project will use a submodule",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deekshasharma/git-submodule-example.git"
+  },
+  "author": "Deeksha Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deekshasharma/git-submodule-example/issues"
+  },
+  "homepage": "https://github.com/deekshasharma/git-submodule-example#readme"
+}
