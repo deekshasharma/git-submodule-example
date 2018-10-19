@@ -5,4 +5,5 @@ console.log('Forgot to commit and push submodule doing it now');
 console.log('adding changes to main project and submodules both');
 console.log('Second time adding changes to main project and submodules both');
 console.log('Third time adding changes to main project and submodules both');
+console.log('Releasing this console message for testing tags');
 
